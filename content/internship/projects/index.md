@@ -1,6 +1,6 @@
 ---
-title: Projects
+title: Projecten
 tags: [projects]
 ---
 
-An overview of the assignments and deliverables from my internship. Each project page covers the problem, my approach, the result, and which learning goals it supports.
+Een overzicht van de opdrachten en opleveringen uit mijn stage. Elke projectpagina beschrijft het probleem, mijn aanpak, het resultaat en aan welke leerdoelen het bijdraagt.

@@ -1,33 +1,33 @@
 ---
-title: Learning goals
+title: Leerdoelen
 tags: [internship, goals]
 ---
 
-Each goal is written SMART (specific, measurable, achievable, relevant, time-bound) and links to its proof in [[internship/evidence/index|Evidence]].
+Elk doel is SMART geformuleerd (specifiek, meetbaar, acceptabel, realistisch, tijdgebonden) en verwijst naar het bewijs in [[internship/evidence/index|Bewijs]].
 
-## Goal 1: *title*
+## Doel 1: *titel*
 
-- **Goal:**
-- **Why:**
-- **How I'll achieve it:**
-- **How it's measured:**
-- **Evidence:** [[goal-1-evidence]]
-- **Status:** 🟡 in progress
+- **Doel:**
+- **Waarom:**
+- **Hoe ik het ga bereiken:**
+- **Hoe het wordt gemeten:**
+- **Bewijs:** [[goal-1-evidence]]
+- **Status:** 🟡 bezig
 
-## Goal 2: *title*
+## Doel 2: *titel*
 
-- **Goal:**
-- **Why:**
-- **How I'll achieve it:**
-- **How it's measured:**
-- **Evidence:**
-- **Status:** ⚪ not started
+- **Doel:**
+- **Waarom:**
+- **Hoe ik het ga bereiken:**
+- **Hoe het wordt gemeten:**
+- **Bewijs:**
+- **Status:** ⚪ nog niet begonnen
 
-## Goal 3: *title*
+## Doel 3: *titel*
 
-- **Goal:**
-- **Why:**
-- **How I'll achieve it:**
-- **How it's measured:**
-- **Evidence:**
-- **Status:** ⚪ not started
+- **Doel:**
+- **Waarom:**
+- **Hoe ik het ga bereiken:**
+- **Hoe het wordt gemeten:**
+- **Bewijs:**
+- **Status:** ⚪ nog niet begonnen

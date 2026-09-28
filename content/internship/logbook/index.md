@@ -1,6 +1,6 @@
 ---
-title: Logbook
+title: Logboek
 tags: [logbook]
 ---
 
-Weekly entries on what I did, what I learned, and what's next. New entries use the *Weekly log* template in Obsidian and are named `week-01`, `week-02`, and so on.
+Wekelijkse verslagen over wat ik heb gedaan, wat ik heb geleerd en wat er volgt. Nieuwe verslagen gebruiken de template *Weekly log* in Obsidian en heten `week-01`, `week-02`, enzovoort.

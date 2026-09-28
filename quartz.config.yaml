@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: nl-NL
   baseUrl: ginger-liam.github.io/avans-stage-portfolio-leerjaar-3
   ignorePatterns:
     - private

@@ -1,20 +1,20 @@
 ---
-title: Company & role
+title: Bedrijf & rol
 tags: [internship]
 ---
 
-## The company
+## Het bedrijf
 
-<!-- What the organisation does, size, sector, customers. -->
+<!-- Wat de organisatie doet, grootte, sector, klanten. -->
 
-## The team
+## Het team
 
-<!-- Which department/team, who you work with, how work is organised (e.g. Scrum). -->
+<!-- Welke afdeling/welk team, met wie je samenwerkt, hoe het werk is georganiseerd (bijv. Scrum). -->
 
-## My role
+## Mijn rol
 
-<!-- Your position, responsibilities, and main assignment. -->
+<!-- Je functie, verantwoordelijkheden en hoofdopdracht. -->
 
-## Tools & way of working
+## Tools & werkwijze
 
-<!-- Tech stack, tools, meetings, processes. -->
+<!-- Techstack, tools, overleggen, processen. -->

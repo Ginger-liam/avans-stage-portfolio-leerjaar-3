@@ -1,17 +1,17 @@
 ---
-title: Mid-term reflection
+title: Tussentijdse reflectie
 tags: [reflection]
 draft: true
 ---
 
-## Progress on learning goals
+## Voortgang op leerdoelen
 
-<!-- Per goal: where do I stand, with links to evidence. -->
+<!-- Per doel: waar sta ik, met links naar bewijs. -->
 
-## What went well
+## Wat ging goed
 
-## What was difficult
+## Wat was lastig
 
-## Feedback received
+## Ontvangen feedback
 
-## Next steps
+## Volgende stappen

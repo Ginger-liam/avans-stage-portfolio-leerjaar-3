@@ -1,7 +1,7 @@
 ---
-title: Reflections
+title: Reflecties
 tags: [reflection]
 ---
 
-- [[mid-term-reflection|Mid-term reflection]]
-- [[final-reflection|Final reflection]]
+- [[mid-term-reflection|Tussentijdse reflectie]]
+- [[final-reflection|Eindreflectie]]

@@ -1,23 +1,23 @@
 ---
-title: Example project
+title: Voorbeeldproject
 date: 2026-09-28
 tags: [projects]
 draft: true
 ---
 
 > [!summary]
-> **Period:** · **Role:** · **Tools:**
+> **Periode:** · **Rol:** · **Tools:**
 
-## Problem
+## Probleem
 
-## Approach
+## Aanpak
 
-## Result
+## Resultaat
 
-<!-- Screenshots go in /assets. Embed with ![[image.png]]. -->
+<!-- Screenshots komen in /assets. Insluiten met ![[image.png]]. -->
 
-## What I learned
+## Wat ik heb geleerd
 
-## Learning goals
+## Leerdoelen
 
-- [[learning-goals#Goal 1: *title*|Goal 1]]
+- [[learning-goals#Doel 1: *titel*|Doel 1]]

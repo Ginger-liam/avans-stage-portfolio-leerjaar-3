@@ -2,13 +2,13 @@
 title: Home
 ---
 
-Hi, I'm **Liam Willis**. This site is my portfolio: it documents my internship, the projects I worked on, and what I learned along the way.
+Hoi, ik ben **Liam Willis**. Dit is mijn portfolio: hier documenteer ik mijn stage, de projecten waaraan ik heb gewerkt en wat ik onderweg heb geleerd.
 
-## Start here
+## Begin hier
 
-- [[about|About me]]: background, skills and contact
-- [[internship/index|Internship]]: the company, my role, and my goals
-- [[internship/projects/index|Projects]]: what I built and delivered
-- [[internship/logbook/index|Logbook]]: weekly progress
-- [[internship/reflections/index|Reflections]]: what I learned
-- [[final-report|Final report]]
+- [[about|Over mij]]: achtergrond, vaardigheden en contact
+- [[internship/index|Stage]]: het bedrijf, mijn rol en mijn doelen
+- [[internship/projects/index|Projecten]]: wat ik heb gebouwd en opgeleverd
+- [[internship/logbook/index|Logboek]]: wekelijkse voortgang
+- [[internship/reflections/index|Reflecties]]: wat ik heb geleerd
+- [[final-report|Eindverslag]]

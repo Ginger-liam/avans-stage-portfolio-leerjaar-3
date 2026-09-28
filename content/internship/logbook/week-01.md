@@ -4,23 +4,23 @@ date: 2026-09-28
 tags: [logbook]
 ---
 
-## What I did
+## Wat ik heb gedaan
 
-- Onboarding: met the team, set up my laptop and accounts
-- Set up this portfolio with Quartz and Obsidian
+- Onboarding: kennisgemaakt met het team, laptop en accounts ingericht
+- Dit portfolio opgezet met Quartz en Obsidian
 
-## What I learned
-
--
-
-## Challenges
+## Wat ik heb geleerd
 
 -
 
-## Next week
+## Uitdagingen
 
 -
 
-## Related
+## Volgende week
 
-- Learning goals: [[learning-goals]]
+-
+
+## Gerelateerd
+
+- Leerdoelen: [[learning-goals]]

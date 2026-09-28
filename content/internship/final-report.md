@@ -1,19 +1,19 @@
 ---
-title: Final report
+title: Eindverslag
 tags: [internship]
 draft: true
 ---
 
-## Introduction
+## Inleiding
 
-## Company & assignment
+## Bedrijf & opdracht
 
-See [[company-and-role]].
+Zie [[company-and-role]].
 
-## Results
+## Resultaten
 
-## Learning goals
+## Leerdoelen
 
-See [[learning-goals]] and [[internship/evidence/index|Evidence]].
+Zie [[learning-goals]] en [[internship/evidence/index|Bewijs]].
 
-## Conclusion & recommendations
+## Conclusie & aanbevelingen

@@ -1,25 +1,25 @@
 ---
-title: Internship
+title: Stage
 tags: [internship]
 ---
 
-> [!info] At a glance
-> **Company:**
-> **Role:**
-> **Period:** start date – end date
-> **Company supervisor:**
-> **School supervisor:**
+> [!info] In het kort
+> **Bedrijf:**
+> **Functie:**
+> **Periode:** begindatum – einddatum
+> **Praktijkbegeleider:**
+> **Stagebegeleider school:**
 
-## Overview
+## Overzicht
 
-<!-- 2–3 sentences: what the internship is about and what the main assignment is. -->
+<!-- 2–3 zinnen: waar de stage over gaat en wat de hoofdopdracht is. -->
 
-## Sections
+## Onderdelen
 
-- [[company-and-role|Company & role]]: the organisation, team, and my position
-- [[learning-goals|Learning goals]]: what I set out to learn and how it's measured
-- [[internship/projects/index|Projects]]: assignments and deliverables
-- [[internship/logbook/index|Logbook]]: weekly entries
-- [[internship/reflections/index|Reflections]]: mid-term and final reflection
-- [[internship/evidence/index|Evidence]]: proof per learning goal / competency
-- [[final-report|Final report]]
+- [[company-and-role|Bedrijf & rol]]: de organisatie, het team en mijn positie
+- [[learning-goals|Leerdoelen]]: wat ik wil leren en hoe dat wordt gemeten
+- [[internship/projects/index|Projecten]]: opdrachten en opleveringen
+- [[internship/logbook/index|Logboek]]: wekelijkse verslagen
+- [[internship/reflections/index|Reflecties]]: tussentijdse en eindreflectie
+- [[internship/evidence/index|Bewijs]]: bewijs per leerdoel / competentie
+- [[final-report|Eindverslag]]

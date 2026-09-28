@@ -1,6 +1,6 @@
 ---
-title: Evidence
+title: Bewijs
 tags: [evidence]
 ---
 
-Proof that I reached my [[learning-goals|learning goals]]. Each evidence page links a goal to concrete work: project pages, logbook entries, feedback, and screenshots.
+Bewijs dat ik mijn [[learning-goals|leerdoelen]] heb behaald. Elke bewijspagina koppelt een doel aan concreet werk: projectpagina's, logboekverslagen, feedback en screenshots.

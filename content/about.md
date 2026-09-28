@@ -1,26 +1,26 @@
 ---
-title: About me
+title: Over mij
 tags: [about]
 ---
 
-## Who I am
+## Wie ik ben
 
-<!-- Short intro: study programme, school, year, interests. -->
+<!-- Korte introductie: opleiding, school, leerjaar, interesses. -->
 
-## Skills
+## Vaardigheden
 
-| Area | Skills |
-| ---- | ------ |
-| Technical | |
+| Gebied | Vaardigheden |
+| ------ | ------------ |
+| Technisch | |
 | Tools | |
 | Soft skills | |
 
-## Education
+## Opleiding
 
-- **Programme**, School (year – year)
+- **Opleiding**, School (jaar – jaar)
 
 ## Contact
 
-- Email:
+- E-mail:
 - LinkedIn:
 - GitHub:

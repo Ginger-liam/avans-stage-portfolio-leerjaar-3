@@ -4,22 +4,22 @@ date: {{date:YYYY-MM-DD}}
 tags: [logbook]
 ---
 
-## What I did
+## Wat ik heb gedaan
 
 -
 
-## What I learned
+## Wat ik heb geleerd
 
 -
 
-## Challenges
+## Uitdagingen
 
 -
 
-## Next week
+## Volgende week
 
 -
 
-## Related
+## Gerelateerd
 
-- Learning goals: [[learning-goals]]
+- Leerdoelen: [[learning-goals]]

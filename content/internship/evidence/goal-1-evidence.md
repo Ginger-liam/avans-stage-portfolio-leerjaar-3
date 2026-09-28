@@ -1,18 +1,18 @@
 ---
-title: "Evidence: Goal 1"
+title: "Bewijs: Doel 1"
 tags: [evidence]
 draft: true
 ---
 
-**Learning goal:** [[learning-goals#Goal 1: *title*|Goal 1]]
+**Leerdoel:** [[learning-goals#Doel 1: *titel*|Doel 1]]
 
-## Proof
+## Bewijs
 
-| What | Where | Shows that… |
-| ---- | ----- | ----------- |
+| Wat | Waar | Laat zien dat… |
+| --- | ---- | -------------- |
 | | [[example-project]] | |
 
 ## Feedback
 
-> [!quote] Supervisor
+> [!quote] Praktijkbegeleider
 > …
