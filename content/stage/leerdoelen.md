@@ -3,7 +3,7 @@ title: Leerdoelen
 tags: [internship, goals]
 ---
 
-Elk doel is SMART geformuleerd (specifiek, meetbaar, acceptabel, realistisch, tijdgebonden) en verwijst naar het bewijs in [[internship/evidence/index|Bewijs]].
+Elk doel is SMART geformuleerd (specifiek, meetbaar, acceptabel, realistisch, tijdgebonden) en verwijst naar het bewijs in [[stage/bewijs/index|Bewijs]].
 
 ## Doel 1: *titel*
 
@@ -11,7 +11,7 @@ Elk doel is SMART geformuleerd (specifiek, meetbaar, acceptabel, realistisch, ti
 - **Waarom:**
 - **Hoe ik het ga bereiken:**
 - **Hoe het wordt gemeten:**
-- **Bewijs:** [[goal-1-evidence]]
+- **Bewijs:** [[bewijs-doel-1]]
 - **Status:** 🟡 bezig
 
 ## Doel 2: *titel*

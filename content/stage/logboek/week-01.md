@@ -23,4 +23,4 @@ tags: [logbook]
 
 ## Gerelateerd
 
-- Leerdoelen: [[learning-goals]]
+- Leerdoelen: [[leerdoelen]]

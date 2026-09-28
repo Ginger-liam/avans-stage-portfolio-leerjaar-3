@@ -8,12 +8,12 @@ draft: true
 
 ## Bedrijf & opdracht
 
-Zie [[company-and-role]].
+Zie [[bedrijf-en-rol]].
 
 ## Resultaten
 
 ## Leerdoelen
 
-Zie [[learning-goals]] en [[internship/evidence/index|Bewijs]].
+Zie [[leerdoelen]] en [[stage/bewijs/index|Bewijs]].
 
 ## Conclusie & aanbevelingen
