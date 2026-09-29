@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 Hoi, ik ben **Liam Willis**. Dit is mijn portfolio: hier documenteer ik mijn stage, de projecten waaraan ik heb gewerkt en wat ik onderweg heb geleerd.
 
 ## Begin hier

@@ -2,15 +2,11 @@
 title: Leerdoelen
 tags: [internship, goals]
 ---
+## Doel 1: *Kennismaking
 
-Elk doel is SMART geformuleerd (specifiek, meetbaar, acceptabel, realistisch, tijdgebonden) en verwijst naar het bewijs in [[stage/bewijs/index|Bewijs]].
-
-## Doel 1: *titel*
-
-- **Doel:**
-- **Waarom:**
-- **Hoe ik het ga bereiken:**
-- **Hoe het wordt gemeten:**
+- **Doel:**Inventariseren van rollen en activiteiten
+- **Waarom:**Dit zal belangrijk zijn voor de uiteindelijke uitwerking van het POC. Door te weten waar de kennis ligt kan ik gericht de hulp ontvangen die ik nodig heb
+- **Hoe ik het ga bereiken:**Minstens 2 interviews voorbereide gesprekken voeren met collega's 
 - **Bewijs:** [[bewijs-doel-1]]
 - **Status:** 🟡 bezig
 

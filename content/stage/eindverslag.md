@@ -1,6 +1,7 @@
 ---
 title: Eindverslag
-tags: [internship]
+tags:
+  - internship
 draft: true
 ---
 
