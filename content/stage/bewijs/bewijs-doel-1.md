@@ -10,11 +10,11 @@ draft: true
 
 | Wat                                 | Waar                | Laat zien dat… |
 | ----------------------------------- | ------------------- | -------------- |
-| Reflectie op eerste indruk          | [[1-eerste-indruk]] |                |
+| Reflectie op eerste indruk          | [[eerste-indruk]] |                |
 | Voorbereiding gesprekken            | [[interviewschema]] |                |
 | Gesprek met praktijkbegeleider      | [[gesprek-daniel]]  |                |
 | Gesprek met collega                 |                     |                |
-| Inzichten over rollen en werkwijzen | [[3-inzichten]]     |                |
+| Inzichten over rollen en werkwijzen | [[inzichten]]     |                |
 
 ## Feedback
 
