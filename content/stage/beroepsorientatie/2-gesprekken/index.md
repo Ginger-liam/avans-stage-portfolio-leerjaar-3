@@ -8,14 +8,14 @@ Voor deze opdracht voer ik minimaal 2 betekenisvolle gesprekken met professional
 
 ## Voorbereiding
 
-- [[topiclijst|Topiclijst]]: mijn vragen, als bewijs van voorbereiding
+- [[interviewschema|Interviewschema]]: overzicht van beide gesprekken en mijn vragen, als bewijs van voorbereiding
 
 ## Verslagen
 
 | Gesprek                       | Met (rol)                  | Status             |
 | ----------------------------- | -------------------------- | ------------------ |
 | [[gesprek-daniel\|Gesprek 1]] | Daniel, praktijkbegeleider | ⚪ nog niet gevoerd |
-| Gesprek 2                     | [collega, andere rol]      | ⚪ nog niet gepland |
+| [[gesprek-abe\|Gesprek 2]]    | Abe, technisch begeleider  | ⚪ nog niet gepland |
 
 ---
 

@@ -18,7 +18,7 @@ draft: true
 ## Voortgang
 
 - [ ] Eerste indruk geschreven
-- [ ] Topiclijst gemaakt
+- [ ] Interviewschema gemaakt
 - [ ] Gesprek 1 gevoerd en uitgewerkt
 - [ ] Gesprek 2 gevoerd en uitgewerkt
 - [ ] Desk research gedaan

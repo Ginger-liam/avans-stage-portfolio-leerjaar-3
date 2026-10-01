@@ -14,7 +14,7 @@ draft: true
 
 ## Voorbereiding
 
-Vragen uit de [[topiclijst]] die ik voor dit gesprek heb gekozen:
+Vragen uit het [[interviewschema]] die ik voor dit gesprek heb gekozen:
 
 - **Rollen:**
 - **Werkwijzen:**
@@ -25,6 +25,10 @@ Vragen uit de [[topiclijst]] die ik voor dit gesprek heb gekozen:
 <!-- Uitgewerkt verslag. Ruwe aantekeningen en opnames horen in private/gesprekken (worden niet gepubliceerd). -->
 
 ## Wat ik heb geleerd
+
+-
+
+## Afspraken en vervolg
 
 -
 
