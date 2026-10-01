@@ -17,7 +17,7 @@ Egardia is een bedrijf dat beveiliging services aanbied door middel van hardware
 
 - [[bedrijf-en-rol|Bedrijf & rol]]: de organisatie, het team en mijn positie
 - [[leerdoelen|Leerdoelen]]: wat ik wil leren en hoe dat wordt gemeten
-- [[stage/beroepsorientatie/index|Beroepsoriëntatie]]: eerste beeld van het beroep, het werkveld en mijn plek daarin (LU1)
+- [[stage/Beroepsorientatie/index|Beroepsoriëntatie]]: eerste beeld van het beroep, het werkveld en mijn plek daarin (LU1)
 - [[stage/projecten/index|Projecten]]: opdrachten en opleveringen
 - [[stage/logboek/index|Logboek]]: wekelijkse verslagen
 - [[stage/reflecties/index|Reflecties]]: tussentijdse en eindreflectie

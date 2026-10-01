@@ -39,4 +39,4 @@ Vragen uit het [[interviewschema#Gesprek 1 organisatie en werkwijze|interviewsch
 
 ---
 
-Terug naar [[stage/beroepsorientatie/2-gesprekken/index|Gesprekken]]
+Terug naar [[stage/Beroepsorientatie/2-gesprekken/index|Gesprekken]]

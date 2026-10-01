@@ -33,8 +33,8 @@ Iets wat anders liep dan ik dacht was het verloop van de dag, ik ben gewend om e
 
 ## Mijn beeld tot nu toe
 
-Terugkijkend op mijn eerste weken merk ik dat het niveau hoog is, hier had ik al op gehoopt. Maar naast dat het niveau hoog ligt en dingen op een professionele manier verlopen is er nog wel en fijne en casual sfeer. Voor de aankomende periode ben ik vooral benieuwd naar hoe ik me het beste kan inlezen over het nieuwe systeem (EOS) zodat ik zo snel mogelijk aan de slag kan met mijn nieuwe service. Deze vraag zal ik meenemen in mijn [[stage/beroepsorientatie/2-gesprekken/index|gesprekken]] met Daniel en collega's.
+Terugkijkend op mijn eerste weken merk ik dat het niveau hoog is, hier had ik al op gehoopt. Maar naast dat het niveau hoog ligt en dingen op een professionele manier verlopen is er nog wel en fijne en casual sfeer. Voor de aankomende periode ben ik vooral benieuwd naar hoe ik me het beste kan inlezen over het nieuwe systeem (EOS) zodat ik zo snel mogelijk aan de slag kan met mijn nieuwe service. Deze vraag zal ik meenemen in mijn [[stage/Beroepsorientatie/2-gesprekken/index|gesprekken]] met Daniel en collega's.
 
 ---
 
-Volgende stap: [[stage/beroepsorientatie/2-gesprekken/index|Gesprekken]] · Terug naar [[stage/beroepsorientatie/index|Beroepsoriëntatie]]
+Volgende stap: [[stage/Beroepsorientatie/2-gesprekken/index|Gesprekken]] · Terug naar [[stage/Beroepsorientatie/index|Beroepsoriëntatie]]

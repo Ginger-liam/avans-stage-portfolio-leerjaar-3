@@ -30,4 +30,4 @@ draft: true
 
 ---
 
-Vorige: [[3-inzichten|Inzichten]] · Terug naar [[stage/beroepsorientatie/index|Beroepsoriëntatie]]
+Vorige: [[3-inzichten|Inzichten]] · Terug naar [[stage/Beroepsorientatie/index|Beroepsoriëntatie]]

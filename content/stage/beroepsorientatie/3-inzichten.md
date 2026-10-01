@@ -5,7 +5,7 @@ draft: true
 ---
 
 > [!tip] Zo gebruik je deze notitie
-> Breng hier je observaties, [[stage/beroepsorientatie/2-gesprekken/index|gesprekken]] en desk research samen tot één verhaal. Verwijs naar je gespreksverslagen met links.
+> Breng hier je observaties, [[stage/Beroepsorientatie/2-gesprekken/index|gesprekken]] en desk research samen tot één verhaal. Verwijs naar je gespreksverslagen met links.
 
 ## Softwareontwikkeling bij Egardia in de praktijk
 
@@ -33,4 +33,4 @@ draft: true
 
 ---
 
-Vorige: [[stage/beroepsorientatie/2-gesprekken/index|Gesprekken]] · Volgende: [[4-beroepsidentiteit|Beroepsidentiteit]]
+Vorige: [[stage/Beroepsorientatie/2-gesprekken/index|Gesprekken]] · Volgende: [[4-beroepsidentiteit|Beroepsidentiteit]]

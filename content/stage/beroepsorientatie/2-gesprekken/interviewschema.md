@@ -116,4 +116,4 @@ Ik voer twee gesprekken met elk een eigen focus. Het eerste gaat over de organis
 
 ---
 
-Terug naar [[stage/beroepsorientatie/2-gesprekken/index|Gesprekken]]
+Terug naar [[stage/Beroepsorientatie/2-gesprekken/index|Gesprekken]]

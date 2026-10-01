@@ -40,4 +40,4 @@ Vragen uit het [[interviewschema#Gesprek 2 techniek en opdracht|interviewschema]
 
 ---
 
-Terug naar [[stage/beroepsorientatie/2-gesprekken/index|Gesprekken]]
+Terug naar [[stage/Beroepsorientatie/2-gesprekken/index|Gesprekken]]
