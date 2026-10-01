@@ -1,6 +1,6 @@
 ---
-title: "2026-10-01"
-date: 2026-10-01
+title: "{{date:YYYY-MM-DD}}"
+date: {{date:YYYY-MM-DD}}
 tags: [logbook]
 ---
 
