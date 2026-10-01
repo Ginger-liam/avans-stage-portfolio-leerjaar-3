@@ -12,12 +12,12 @@ tags: [internship]
 ## Overzicht
 
 Egardia is een bedrijf dat beveiliging services aanbied door middel van hardware (camera's, alarmen etc.) en software. Mijn stage zal een onderzoek zijn naar hoe het huidige systeem uitgebreid kan worden om AI beter in te zetten bij het herkennen van informatie binnen video en afbeelding materiaal.
-<!-- 2–3 zinnen: waar de stage over gaat en wat de hoofdopdracht is. -->
 
 ## Onderdelen
 
 - [[bedrijf-en-rol|Bedrijf & rol]]: de organisatie, het team en mijn positie
 - [[leerdoelen|Leerdoelen]]: wat ik wil leren en hoe dat wordt gemeten
+- [[stage/beroepsorientatie/index|Beroepsoriëntatie]]: eerste beeld van het beroep, het werkveld en mijn plek daarin (LU1)
 - [[stage/projecten/index|Projecten]]: opdrachten en opleveringen
 - [[stage/logboek/index|Logboek]]: wekelijkse verslagen
 - [[stage/reflecties/index|Reflecties]]: tussentijdse en eindreflectie

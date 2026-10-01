@@ -20,4 +20,4 @@ draft: true
 
 ## Leerdoelen
 
-- [[leerdoelen#Doel 1: *titel*|Doel 1]]
+- [[leerdoelen#Doel 1 Kennismaking|Doel 1]]
