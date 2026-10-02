@@ -65,14 +65,19 @@ Ik voer twee gesprekken met elk een eigen focus. Het eerste gaat over de organis
 ### De opdracht en verwachtingen
 
 - Wat is voor jou een geslaagde proof of concept aan het eind van mijn stage?
+	- vergelijking van ai modelen, en hoe dit technisch geimplementeerd kan worden
+	- wat zijn de plus en min punten van de modelen (kosten)
 - Waarom wil Egardia server-side detectie, en welk probleem lossen we daarmee op voor klanten?
 - Welke onderdelen van de opdracht zijn must-have en welke zijn een extraatje?
+	- voor nu vooral de focus leggen op de daadwerkelijke VLM en hoe dit aansluit aan het bestaande systeem. Stap 2 is om te kijken naar hoe we daadwerkelijk informatie uit dit VLM kunnen opvragen
 - Welke detectieklassen (personen, voertuigen, pakketten, dieren) zijn het belangrijkst?
 - Zijn er eisen voor latency, nauwkeurigheid of kosten per detectie?
 
 ### Huidige architectuur en camera-event-pipeline
 
 - Kun je de route schetsen van een camera-event: van camera naar backend naar notificatie?
+	- Op EOS kan dit nog niet, dit wordt later geïmplementeerd
+	- 
 - Wat is EOS, en hoe kan ik me daar het snelst in inlezen?
 - Wat is het verschil tussen de oude (Cam 01–06) en nieuwe camera's (Cam 07–10), en wat doen de nieuwe al aan AI?
 - Welke snapshots of clips komen nu binnen, in welk formaat en hoe vaak?

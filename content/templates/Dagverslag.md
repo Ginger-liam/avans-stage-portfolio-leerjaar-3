@@ -11,7 +11,3 @@ tags: [logbook]
 ## Nog niet gedaan
 
 -
-
-## Geleerd of opgevallen
-
--

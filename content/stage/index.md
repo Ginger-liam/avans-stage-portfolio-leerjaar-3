@@ -11,7 +11,7 @@ tags: [internship]
 
 ## Overzicht
 
-Egardia is een bedrijf dat beveiliging services aanbied door middel van hardware (camera's, alarmen etc.) en software. Mijn stage zal een onderzoek zijn naar hoe het huidige systeem uitgebreid kan worden om AI beter in te zetten bij het herkennen van informatie binnen video en afbeelding materiaal.
+Egardia is een bedrijf dat huis beveiliging services aanbied door middel van hardware (camera's, alarmen etc.) en software. Mijn stage zal een onderzoek zijn naar hoe het huidige systeem uitgebreid kan worden om AI beter in te zetten bij het herkennen van informatie binnen video en afbeelding materiaal.
 
 ## Onderdelen
 
